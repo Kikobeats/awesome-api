@@ -1,10 +1,11 @@
 # awesome-api
 
-> A curated list of awesome resources for design and implement RESTful API's.
+> A curated list of awesome resources for design and implement RESTful APIs.
 
 
 ## Design Guide
 
+> REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
 * [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com)
 * [HTTP API Design Guide by interagent](https://github.com/interagent/http-api-design)
@@ -13,13 +14,16 @@
 
 ## Status Code
 
+> When you are using a REST design you have to provide the HTTP status code that are the more appropriated to respond to the request.
 
-* [Status code definition in W3C](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [httpstatus.es](http://httpstatus.es/)
-* [List of HTTP Status in Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [Status code definition in W3C](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [HTTP Status code table in RESTAPITutorial](http://www.restapitutorial.com/httpstatuscodes.html)
 
 ## JWT
+
+> JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
+
 
 * [JWT Draft in IETF](http://tools.ietf.org/html/draft-ietf-oauth-json-web-token)
 * [JWT.io](http://jwt.io/)
@@ -28,6 +32,8 @@
 * [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/)
 
 ## OAuth
+
+> An open protocol to allow secure authorization in a simple and standard method from web, mobile and desktop applications
 
 * [The OAuth Bible by Mashape](http://oauthbible.com/) 
 
