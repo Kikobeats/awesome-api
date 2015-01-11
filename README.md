@@ -28,6 +28,7 @@
 * [JWT Draft in IETF](http://tools.ietf.org/html/draft-ietf-oauth-json-web-token)
 * [JWT.io](http://jwt.io/)
 * [Cookies vs Tokens](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
+* [Why Meteor doesn't use session cookies](https://www.meteor.com/blog/2014/03/14/session-cookies)
 * [10 Things You Should Know about Tokens](https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/)
 * [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/)
 
