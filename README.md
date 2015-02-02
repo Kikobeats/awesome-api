@@ -11,6 +11,7 @@
 * [HTTP API Design Guide by interagent](https://github.com/interagent/http-api-design)
 *  [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) / [Spanish version](http://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)
 * [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference)
+* [Authentication Cheat Sheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
 
 ## Status Code
 
@@ -23,7 +24,6 @@
 ## JWT
 
 > JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
-
 
 * [JWT Draft in IETF](http://tools.ietf.org/html/draft-ietf-oauth-json-web-token)
 * [JWT.io](http://jwt.io/)
