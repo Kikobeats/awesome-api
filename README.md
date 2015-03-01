@@ -38,6 +38,10 @@
 
 * [The OAuth Bible by Mashape](http://oauthbible.com/) 
 
+## Modeling
+
+* [RAML, RESTful API Modeling Language](http://raml.org/)
+
 ## Frameworks
 
 ### Nodejs
