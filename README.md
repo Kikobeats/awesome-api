@@ -2,7 +2,6 @@
 
 > A curated list of awesome resources for design and implement RESTful APIs.
 
-
 ## Design Guide
 
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
@@ -41,6 +40,12 @@
 ## Modeling
 
 * [RAML, RESTful API Modeling Language](http://raml.org/)
+
+## Documentation
+
+* [apiDoc](http://apidocjs.com)
+* [Mashape Documenting API](http://docs.mashape.com/documenting-api)
+* [JSDoc (General Purpose)](http://usejsdoc.org/)
 
 ## Frameworks
 
