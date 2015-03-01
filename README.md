@@ -4,6 +4,8 @@
 
 ## Design Guide
 
+### General Considerations
+
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
 * [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com)
@@ -12,7 +14,7 @@
 * [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference)
 * [Authentication Cheat Sheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
 
-## Status Code
+### Appropriate Status Code
 
 > When you are using a REST design you have to provide the HTTP status code that are the more appropriated to respond to the request.
 
@@ -20,7 +22,9 @@
 * [Status code definition in W3C](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [HTTP Status code table in RESTAPITutorial](http://www.restapitutorial.com/httpstatuscodes.html)
 
-## JWT
+### Authentication
+
+#### JWT
 
 > JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
 
@@ -31,23 +35,41 @@
 * [10 Things You Should Know about Tokens](https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/)
 * [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/)
 
-## OAuth
+### Authorization
+
+#### OAuth
 
 > An open protocol to allow secure authorization in a simple and standard method from web, mobile and desktop applications
 
 * [The OAuth Bible by Mashape](http://oauthbible.com/) 
 
-## Modeling
+## Explorer
 
-* [RAML, RESTful API Modeling Language](http://raml.org/)
+> Need a API for your project? Check in this sites.
+
+* [Mashape](https://www.mashape.com/explore)
+* [publicapis.com](http://www.publicapis.com)
+* [apis.io](http://apis.io)
 
 ## Documentation
 
+> One of the most important part of your API is have a good documentation and updated with the code.
+
+* [Mashape Documentation ecosystem](http://docs.mashape.com/documenting-api)
 * [apiDoc](http://apidocjs.com)
-* [Mashape Documenting API](http://docs.mashape.com/documenting-api)
-* [JSDoc (General Purpose)](http://usejsdoc.org/)
+* [JSDoc (General Purpose)](http://usejsdoc.org)
+
+## Modeling
+
+> Based in DDD (Domain Driven Development). Generates automatically API's in different languages.
+
+* [RAML, RESTful API Modeling Language](http://raml.org)
+* [kimono, generate API from websites](https://www.kimonolabs.com)
+* [import.io, turn web pages into Data](https://import.io)
 
 ## Frameworks
+
+> Designed specify for build quickly RESTful API's.
 
 ### Nodejs
 
