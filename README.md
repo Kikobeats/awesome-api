@@ -59,6 +59,10 @@
 * [apiDoc](http://apidocjs.com)
 * [JSDoc (General Purpose)](http://usejsdoc.org)
 
+## Logging
+
+> I need love here...
+
 ## Modeling
 
 > Based in DDD (Domain Driven Development). Generates automatically API's in different languages.
