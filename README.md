@@ -74,7 +74,6 @@
 
 * [Unirest, Lightweight HTTP Request Client Libraries](http://unirest.io).
 * [nock, HTTP Server mocking for Node.js](https://www.npmjs.com/package/nock).
-* [Guardian.js, Remove the OAuth dance with one request.](http://guardianjs.com).
 * [Supertest, Super-agent driven library for testing HTTP servers](https://www.npmjs.com/package/supertest).
 * [hello.js, A client-side Javascript SDK for authenticating with OAuth2](http://adodson.com/hello.js/#hellojs).
 
