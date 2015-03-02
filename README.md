@@ -68,11 +68,20 @@
 * [import.io, turn web pages into Data](https://import.io)
 * [swagger.io](http://swagger.io)
 
+## Libraries
+
+> Used it for improve your workflow
+
+* [Unirest, Lightweight HTTP Request Client Libraries](http://unirest.io).
+* [nock, HTTP Server mocking for Node.js](https://www.npmjs.com/package/nock).
+* [Guardian.js, Remove the OAuth dance with one request.](http://guardianjs.com).
+* [Supertest, Super-agent driven library for testing HTTP servers](https://www.npmjs.com/package/supertest).
+* [hello.js, A client-side Javascript SDK for authenticating with OAuth2](http://adodson.com/hello.js/#hellojs).
+
+
 ## Frameworks
 
 > Designed specify for build quickly RESTful API's.
-
-### Nodejs
 
 * [Sails.js](http://sailsjs.org)
 * [Loopback	](http://loopback.io)
