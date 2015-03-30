@@ -13,6 +13,7 @@
 *  [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) / [Spanish version](http://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)
 * [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference)
 * [Authentication Cheat Sheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
+* [API Terms Glossary](https://github.com/Mashape/apiglossary)
 
 ### Appropriate Status Code
 
