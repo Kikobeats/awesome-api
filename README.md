@@ -57,9 +57,16 @@
 
 > One of the most important part of your API is have a good documentation and updated with the code.
 
-* [Mashape Documentation ecosystem](http://docs.mashape.com/documenting-api)
+### Free
+
 * [apiDoc](http://apidocjs.com)
-* [JSDoc (General Purpose)](http://usejsdoc.org)
+* [aglio](https://github.com/danielgtaylor/aglio)
+* [slate](https://github.com/tripit/slate)
+
+### Services
+
+* [Readme.io](https://readme.io/)
+* [Mashape](http://docs.mashape.com/documenting-api)
 
 ## Logging
 
