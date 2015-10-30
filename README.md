@@ -137,3 +137,17 @@
 
 * [Sails.js](http://sailsjs.org).
 * [Loopback	](http://loopback.io).
+
+
+## Gateways
+
+> Manage API infrastructure concerns such as authentication/authorization, rate limiting, scaling, analytics, etc.
+
+### Open Source / Self-hosted
+
+* [Mashape Kong](http://getkong.org/).
+* [Tyk](https://tyk.io/).
+* [API Umbrella](http://apiumbrella.io/).
+* [ApiAxle](http://apiaxle.com).
+* [WSO2 API Manager](http://wso2.com/api-management/try-it/).
+
