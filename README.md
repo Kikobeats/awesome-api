@@ -120,6 +120,7 @@
 * [swagger.io](http://swagger.io).
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
 * [Apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
+* [API Plug](https://apiplug.com/) – Hassle-free API Generation.
 
 ## Libraries
 
@@ -130,14 +131,12 @@
 * [Supertest, Super-agent driven library for testing HTTP servers](https://www.npmjs.com/package/supertest).
 * [hello.js, A client-side Javascript SDK for authenticating with OAuth2](http://adodson.com/hello.js/#hellojs).
 
-
 ## Frameworks
 
 > Designed specify for build quickly RESTful API's.
 
 * [Sails.js](http://sailsjs.org).
 * [Loopback	](http://loopback.io).
-
 
 ## Gateways
 
@@ -150,4 +149,3 @@
 * [API Umbrella](http://apiumbrella.io/).
 * [ApiAxle](http://apiaxle.com).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
-
