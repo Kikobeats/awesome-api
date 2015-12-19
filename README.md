@@ -10,7 +10,7 @@
 
 * [HTTP API Design Guide by interagent](https://github.com/interagent/http-api-design).
 *  [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) / [Spanish version](http://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/).
-* [Ideal REST API Design] (https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
+* [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
 * [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference).
 * [API Terms Glossary](https://github.com/Mashape/apiglossary).
 * [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com).
