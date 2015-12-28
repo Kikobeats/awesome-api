@@ -1,4 +1,4 @@
-# Awesome API [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](http://img.shields.io/travis/Kikobeats/awesome-api/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-api)
+# Awesome API [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/Kikobeats/awesome-api/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-api)
 
 > A curated list of awesome resources for design and implement RESTful APIs.
 
@@ -9,7 +9,7 @@
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
 * [HTTP API Design Guide by interagent](https://github.com/interagent/http-api-design).
-*  [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) / [Spanish version](http://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/).
+*  [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) / [Spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/).
 * [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
 * [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference).
 * [API Terms Glossary](https://github.com/Mashape/apiglossary).
@@ -19,7 +19,7 @@
 
 > When you are using a REST design you have to provide the HTTP status code that are the more appropriated to respond to the request.
 
-* [httpstatus.es](http://httpstatus.es/)
+* [httpstatus.es](https://httpstatuses.com/)
 * [Status code definition in W3C](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html).
 * [HTTP Status code table in RESTAPITutorial](http://www.restapitutorial.com/httpstatuscodes.html).
 
@@ -31,12 +31,12 @@
 
 > JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
 
-* [JWT Draft in IETF](http://tools.ietf.org/html/draft-ietf-oauth-json-web-token).
+* [JWT Draft in IETF](https://tools.ietf.org/html/draft-ietf-oauth-json-web-token).
 * [JWT.io](http://jwt.io/).
-* [Cookies vs Tokens](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token).
-* [Why Meteor doesn't use session cookies](https://www.meteor.com/blog/2014/03/14/session-cookies).
-* [10 Things You Should Know about Tokens](https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies).
-* [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys).
+* [Cookies vs Tokens](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/).
+* [Why Meteor doesn't use session cookies](http://info.meteor.com/blog/session-cookies).
+* [10 Things You Should Know about Tokens](https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/).
+* [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/).
 
 ### Authorization
 
@@ -61,15 +61,15 @@
 
 > Need a API for your project? Check in this sites.
 
-* [Mashape](https://www.mashape.com/explore).
-* [publicapis.com](http://www.publicapis.com).
+* [Mashape](https://market.mashape.com/explore).
+* [publicapis.com](https://www.publicapis.com/).
 * [apis.io](http://apis.io).
 
 ## Testing
 
 ### Querying
 
-* [httpie](https://github.com/jakubroztocil/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
+* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
 * [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - Chrome extension essential to test manually REST API.
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
 * [jq](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
@@ -144,7 +144,7 @@
 
 ### Open Source / Self-hosted
 
-* [Mashape Kong](http://getkong.org/).
+* [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
 * [API Umbrella](http://apiumbrella.io/).
 * [ApiAxle](http://apiaxle.com).
