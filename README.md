@@ -25,6 +25,7 @@
 
 ### Authentication
 
+* [Web Authentication Methods Explained](https://blog.risingstack.com/web-authentication-methods-explained/).
 * [Authentication Cheat Sheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet).
 
 #### JWT
