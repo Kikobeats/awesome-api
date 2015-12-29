@@ -47,6 +47,11 @@
 
 * [The OAuth Bible by Mashape](http://oauthbible.com/).
 
+## Security
+
+* [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
+* [Node Security Project](https://nodesecurity.io/).
+
 ## Format
 
 * [JSON API](http://jsonapi.org/) - Standard for building APIs in JSON.
