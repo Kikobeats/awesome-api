@@ -51,6 +51,7 @@
 
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
 * [Node Security Project](https://nodesecurity.io/).
+* [Helmet, help secure Express/Connect apps with various HTTP headers](https://www.npmjs.com/package/helmet).
 
 ## Format
 
