@@ -131,6 +131,7 @@
 * [nock, HTTP Server mocking for Node.js](https://www.npmjs.com/package/nock).
 * [Supertest, Super-agent driven library for testing HTTP servers](https://www.npmjs.com/package/supertest).
 * [hello.js, A client-side Javascript SDK for authenticating with OAuth2](http://adodson.com/hello.js/#hellojs).
+* [Rate limiter for Node.js backed by Redis](https://github.com/tj/node-ratelimiter).
 
 ## Frameworks
 
