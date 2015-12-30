@@ -8,8 +8,8 @@
 
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
-* [HTTP API Design Guide by interagent](https://github.com/interagent/http-api-design).
-*  [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) / [Spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/).
+* [HTTP API Design](https://github.com/interagent/http-api-design) – Guide extracted from work on the Heroku Platform API.
+* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) / [Spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/).
 * [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
 * [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference).
 * [API Terms Glossary](https://github.com/Mashape/apiglossary).
@@ -134,18 +134,19 @@
 
 > Used it for improve your workflow
 
-* [Unirest, Lightweight HTTP Request Client Libraries](http://unirest.io).
-* [nock, HTTP Server mocking for Node.js](https://www.npmjs.com/package/nock).
-* [Supertest, Super-agent driven library for testing HTTP servers](https://www.npmjs.com/package/supertest).
-* [hello.js, A client-side Javascript SDK for authenticating with OAuth2](http://adodson.com/hello.js/#hellojs).
-* [Rate limiter for Node.js backed by Redis](https://github.com/tj/node-ratelimiter).
+* [Unirest](http://unirest.io) – Lightweight HTTP Request Client Libraries.
+* [nock](https://www.npmjs.com/package/nock) – HTTP Server mocking for Node.js
+* [Supertest](https://www.npmjs.com/package/supertest) – Super-agent driven library for testing HTTP servers.
+* [hello.js](http://adodson.com/hello.js/#hellojs) – A client-side Javascript SDK for authenticating with OAuth2.
+* [node-ratelimiter](https://github.com/tj/node-ratelimiter) – Rate limiter for Node.js backed by Redis.
+* [node-uuid](https://github.com/broofa/node-uuid) – Simple and fast generation of UUIDS.
 
 ## Frameworks
 
 > Designed specify for build quickly RESTful API's.
 
 * [Sails.js](http://sailsjs.org).
-* [Loopback	](http://loopback.io).
+* [Loopback](http://loopback.io).
 
 ## Gateways
 
