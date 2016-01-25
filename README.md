@@ -67,7 +67,7 @@
 
 ## Discover
 
-> Need a API for your project? Check in this sites.
+> Need an API for your project? Check in this sites.
 
 * [Mashape](https://market.mashape.com/explore).
 * [publicapis.com](https://www.publicapis.com/).
@@ -132,7 +132,7 @@
 
 ## Libraries
 
-> Used it for improve your workflow
+> Used it to improve your workflow
 
 * [Unirest](http://unirest.io) – Lightweight HTTP Request Client Libraries.
 * [nock](https://www.npmjs.com/package/nock) – HTTP Server mocking for Node.js
@@ -143,7 +143,7 @@
 
 ## Frameworks
 
-> Designed specify for build quickly RESTful API's.
+> Designed specifically for building RESTful API's Quickly.
 
 * [Sails.js](http://sailsjs.org).
 * [Loopback](http://loopback.io).
