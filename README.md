@@ -123,7 +123,6 @@
 > Based in DDD (Domain Driven Development). Generates automatically API's in different languages.
 
 * [RAML, RESTful API Modeling Language](http://raml.org).
-* [kimono, generate API from websites](https://www.kimonolabs.com).
 * [import.io, turn web pages into Data](https://import.io/).
 * [swagger.io](http://swagger.io).
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
