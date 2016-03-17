@@ -118,7 +118,7 @@
 > Based in DDD (Domain Driven Development). Generates automatically API's in different languages.
 
 * [RAML, RESTful API Modeling Language](http://raml.org).
-* [import.io, turn web pages into Data](https://import.io/).
+* [import.io, turn web pages into Data](https://www.import.io/).
 * [swagger.io](http://swagger.io).
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
 * [Apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
