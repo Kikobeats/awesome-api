@@ -73,6 +73,7 @@
 * [publicapis.com](https://www.publicapis.com/).
 * [apis.io](http://apis.io).
 * [Programmable Web API Directory](http://www.programmableweb.com/apis/directory)
+* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs)
 
 ## Testing
 
