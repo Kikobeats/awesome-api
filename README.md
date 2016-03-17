@@ -7,7 +7,7 @@
 ### Overview
 
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
-
+https://www.publicapis.com/
 * [HTTP API Design](https://github.com/interagent/http-api-design) – Guide extracted from work on the Heroku Platform API.
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) / [Spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/).
 * [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
@@ -91,14 +91,7 @@
 * [json-server](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 * [Mocky.io](http://www.mocky.io/) - Free online service to create fake HTTP responses.
 * [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
-
-### Public REST APIs To Use In Tests
-
-* [ProgrammableWeb](http://www.programmableweb.com/apis/directory) - The world's largest API repository.
-* [Public APIS](https://www.publicapis.com/) - Explore The Largest API Directory In The Galaxy.
-* [Marvel Comics API](http://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
-
 
 ## Documentation
 
