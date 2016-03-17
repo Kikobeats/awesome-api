@@ -72,6 +72,7 @@
 * [Mashape](https://market.mashape.com/explore).
 * [publicapis.com](https://www.publicapis.com/).
 * [apis.io](http://apis.io).
+* [Programmable Web API Directory](http://www.programmableweb.com/apis/directory)
 
 ## Testing
 
