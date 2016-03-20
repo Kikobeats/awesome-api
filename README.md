@@ -8,37 +8,37 @@
 
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
-* [HTTP API Design](https://github.com/interagent/http-api-design) – Guide extracted from work on the Heroku Platform API.
-* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) / [Spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/).
-* [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
-* [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference).
 * [API Terms Glossary](https://github.com/Mashape/apiglossary).
+* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) / [Spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/).
+* [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference).
+* [HTTP API Design](https://github.com/interagent/http-api-design) – Guide extracted from work on the Heroku Platform API.
+* [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
 * [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com).
 
 ### Status Code
 
 > When you are using a REST design you have to provide the HTTP status code that are the more appropriated to respond to the request.
 
+* [HTTP Status code table in RESTAPITutorial](http://www.restapitutorial.com/httpstatuscodes.html).
 * [httpstatus.es](https://httpstatuses.com/)
 * [Status code definition in W3C](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html).
-* [HTTP Status code table in RESTAPITutorial](http://www.restapitutorial.com/httpstatuscodes.html).
 
 ### Authentication
 
-* [Web Authentication Methods Explained](https://blog.risingstack.com/web-authentication-methods-explained/).
 * [Authentication Cheat Sheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet).
 * [The Problem With API Authentication in Express](https://stormpath.com/blog/the-problem-with-api-authentication-in-express/).
+* [Web Authentication Methods Explained](https://blog.risingstack.com/web-authentication-methods-explained/).
 
 #### JWT
 
 > JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
 
+* [10 Things You Should Know about Tokens](https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/).
+* [Cookies vs Tokens](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/).
 * [JWT Draft in IETF](https://tools.ietf.org/html/draft-ietf-oauth-json-web-token).
 * [JWT.io](http://jwt.io/).
-* [Cookies vs Tokens](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/).
-* [Why Meteor doesn't use session cookies](http://info.meteor.com/blog/session-cookies).
-* [10 Things You Should Know about Tokens](https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/).
 * [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/).
+* [Why Meteor doesn't use session cookies](http://info.meteor.com/blog/session-cookies).
 
 ### Authorization
 
@@ -50,48 +50,48 @@
 
 ## Security
 
-* [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
-* [Node Security Project](https://nodesecurity.io/).
 * [Helmet, help secure Express/Connect apps with various HTTP headers](https://www.npmjs.com/package/helmet).
+* [Node Security Project](https://nodesecurity.io/).
+* [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
 
 ## Format
 
-* [JSON API](http://jsonapi.org/) - Standard for building APIs in JSON.
-* [RAML](http://raml.org/) - Simple and succinct way to describe RESTful API.
-* [JSend](http://labs.omniti.com/labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
-* [OData](http://www.odata.org/) - Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
 * [HAL](http://stateless.co/hal_specification.html) - Simple format that gives a consistent and easy way to hyperlink between resources in your API (see: [HATEOAS](#hateoas)).
-* [JSON-LD](http://json-ld.org/) - Standard for describing Linked Data and hypermedia relations in JSON (W3C).
 * [Hydra](http://www.hydra-cg.com/) - Vocabulary for Hypermedia-Driven Web APIs (W3C).
+* [JSend](http://labs.omniti.com/labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
+* [JSON API](http://jsonapi.org/) - Standard for building APIs in JSON.
+* [JSON-LD](http://json-ld.org/) - Standard for describing Linked Data and hypermedia relations in JSON (W3C).
+* [OData](http://www.odata.org/) - Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
+* [RAML](http://raml.org/) - Simple and succinct way to describe RESTful API.
 * [Schema.org](http://schema.org) - Collection of schemas describing common data models.
 
 ## Discover
 
 > Need an API for your project? Check in this sites.
 
-* [Mashape](https://market.mashape.com/explore).
-* [publicapis.com](https://www.publicapis.com/).
 * [apis.io](http://apis.io).
-* [Programmable Web API Directory](http://www.programmableweb.com/apis/directory)
 * [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs)
+* [Mashape](https://market.mashape.com/explore).
+* [Programmable Web API Directory](http://www.programmableweb.com/apis/directory)
+* [publicapis.com](https://www.publicapis.com/).
 
 ## Testing
 
 ### Querying
 
 * [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
+* [HttpMaster](http://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
+* [jq](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - Chrome extension essential to test manually REST API.
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
-* [jq](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
-* [HttpMaster](http://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
 
 ### Mocking
 
 * [FakeRest](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
+* [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
 * [json-server](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 * [Mocky.io](http://www.mocky.io/) - Free online service to create fake HTTP responses.
 * [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
-* [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
 
 ## Documentation
 
@@ -99,14 +99,14 @@
 
 ### Free
 
-* [apiDoc](http://apidocjs.com).
 * [aglio](https://github.com/danielgtaylor/aglio).
+* [apiDoc](http://apidocjs.com).
 * [slate](https://github.com/tripit/slate).
 
 ### Services
 
-* [Readme.io](https://readme.io/).
 * [Mashape](http://docs.mashape.com/documenting-api).
+* [Readme.io](https://readme.io/).
 
 ## Logging
 
@@ -117,30 +117,30 @@
 
 > Based in DDD (Domain Driven Development). Generates automatically API's in different languages.
 
-* [RAML, RESTful API Modeling Language](http://raml.org).
-* [import.io, turn web pages into Data](https://www.import.io/).
-* [swagger.io](http://swagger.io).
-* [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
-* [Apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 * [API Plug](https://apiplug.com/) – Hassle-free API Generation.
+* [Apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
+* [import.io, turn web pages into Data](https://www.import.io/).
+* [RAML, RESTful API Modeling Language](http://raml.org).
+* [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
+* [swagger.io](http://swagger.io).
 
 ## Libraries
 
 > Used it to improve your workflow
 
-* [Unirest](http://unirest.io) – Lightweight HTTP Request Client Libraries.
-* [nock](https://www.npmjs.com/package/nock) – HTTP Server mocking for Node.js
-* [Supertest](https://www.npmjs.com/package/supertest) – Super-agent driven library for testing HTTP servers.
 * [hello.js](http://adodson.com/hello.js/#hellojs) – A client-side Javascript SDK for authenticating with OAuth2.
+* [nock](https://www.npmjs.com/package/nock) – HTTP Server mocking for Node.js
 * [node-ratelimiter](https://github.com/tj/node-ratelimiter) – Rate limiter for Node.js backed by Redis.
 * [node-uuid](https://github.com/broofa/node-uuid) – Simple and fast generation of UUIDS.
+* [Supertest](https://www.npmjs.com/package/supertest) – Super-agent driven library for testing HTTP servers.
+* [Unirest](http://unirest.io) – Lightweight HTTP Request Client Libraries.
 
 ## Frameworks
 
 > Designed specifically for building RESTful API's Quickly.
 
-* [Sails.js](http://sailsjs.org).
 * [Loopback](http://loopback.io).
+* [Sails.js](http://sailsjs.org).
 
 ## Gateways
 
@@ -148,8 +148,8 @@
 
 ### Open Source / Self-hosted
 
-* [Mashape Kong](https://getkong.org/).
-* [Tyk](https://tyk.io/).
 * [API Umbrella](http://apiumbrella.io/).
 * [ApiAxle](http://apiaxle.com).
+* [Mashape Kong](https://getkong.org/).
+* [Tyk](https://tyk.io/).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
