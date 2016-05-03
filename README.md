@@ -8,6 +8,10 @@
 
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
+* [HTTP API Design Guide by interagent](https://github.com/interagent/http-api-design).
+*  [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) [[spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)].
+* [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
+* [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference).
 * [API Terms Glossary](https://github.com/Mashape/apiglossary).
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) / [Spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/).
 * [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference).
@@ -20,7 +24,7 @@
 > When you are using a REST design you have to provide the HTTP status code that are the more appropriated to respond to the request.
 
 * [HTTP Status code table in RESTAPITutorial](http://www.restapitutorial.com/httpstatuscodes.html).
-* [httpstatus.es](https://httpstatuses.com/)
+* [httpstatuses.com](https://httpstatuses.com/)
 * [Status code definition in W3C](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html).
 
 ### Authentication
@@ -67,7 +71,7 @@
 
 ## Discover
 
-> Need an API for your project? Check in this sites.
+> Need a API for your projects?
 
 * [apis.io](http://apis.io).
 * [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs)
