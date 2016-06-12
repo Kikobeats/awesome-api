@@ -43,6 +43,7 @@
 * [JWT.io](http://jwt.io/).
 * [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/).
 * [Why Meteor doesn't use session cookies](http://info.meteor.com/blog/session-cookies).
+* [JWTinspector.io](https://www.jwtinspector.io).
 
 ### Authorization
 
