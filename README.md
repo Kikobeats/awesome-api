@@ -18,6 +18,7 @@
 * [HTTP API Design](https://github.com/interagent/http-api-design) – Guide extracted from work on the Heroku Platform API.
 * [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
 * [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com).
+* [RAPIS: A REST API Standard](https://github.com/lambda2/rapis).
 
 ### Status Code
 
