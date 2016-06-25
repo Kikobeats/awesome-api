@@ -8,16 +8,14 @@
 
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
-* [HTTP API Design Guide by interagent](https://github.com/interagent/http-api-design).
-*  [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) [[spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)].
+* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) [[spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)].
 * [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
 * [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference).
 * [API Terms Glossary](https://github.com/Mashape/apiglossary).
-* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) / [Spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/).
-* [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference).
 * [HTTP API Design](https://github.com/interagent/http-api-design) – Guide extracted from work on the Heroku Platform API.
-* [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
 * [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com).
+* [RAPIS: A REST API Standard for the 21th century](https://github.com/lambda2/rapis).
+
 
 ### Status Code
 
