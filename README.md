@@ -29,7 +29,7 @@
 
 ### Authentication
 
-* [Auth Boss, learn about different authentication methodologies on the web](https://github.com/teesloane/Auth-Boss). 
+* [Auth Boss](https://github.com/teesloane/Auth-Boss) – Learn about different authentication methodologies on the web.
 * [Authentication Cheat Sheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet).
 * [The Problem With API Authentication in Express](https://stormpath.com/blog/the-problem-with-api-authentication-in-express/).
 * [Web Authentication Methods Explained](https://blog.risingstack.com/web-authentication-methods-explained/).
@@ -62,14 +62,14 @@
 
 ## Format
 
-* [HAL](http://stateless.co/hal_specification.html) - Simple format that gives a consistent and easy way to hyperlink between resources in your API (see: [HATEOAS](#hateoas)).
-* [Hydra](http://www.hydra-cg.com/) - Vocabulary for Hypermedia-Driven Web APIs (W3C).
-* [JSend](http://labs.omniti.com/labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
-* [JSON API](http://jsonapi.org/) - Standard for building APIs in JSON.
-* [JSON-LD](http://json-ld.org/) - Standard for describing Linked Data and hypermedia relations in JSON (W3C).
-* [OData](http://www.odata.org/) - Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
-* [RAML](http://raml.org/) - Simple and succinct way to describe RESTful API.
-* [Schema.org](http://schema.org) - Collection of schemas describing common data models.
+* [HAL](http://stateless.co/hal_specification.html) – Simple format that gives a consistent and easy way to hyperlink between resources in your API (see: [HATEOAS](#hateoas)).
+* [Hydra](http://www.hydra-cg.com/) – Vocabulary for Hypermedia-Driven Web APIs (W3C).
+* [JSend](http://labs.omniti.com/labs/jsend) – Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
+* [JSON API](http://jsonapi.org/) – Standard for building APIs in JSON.
+* [JSON-LD](http://json-ld.org/) – Standard for describing Linked Data and hypermedia relations in JSON (W3C).
+* [OData](http://www.odata.org/) – Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
+* [RAML](http://raml.org/) – Simple and succinct way to describe RESTful API.
+* [Schema.org](http://schema.org) – Collection of schemas describing common data models.
 
 ## Discover
 
@@ -86,19 +86,19 @@
 
 ### Querying
 
-* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
-* [HttpMaster](http://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
-* [jq](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
-* [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - Chrome extension essential to test manually REST API.
-* [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
+* [httpie](https://github.com/jkbrzt/httpie) – Command line HTTP client, far more dev-friendly than `curl`.
+* [HttpMaster](http://www.httpmaster.net) – GUI tool for testing REST APIs and services. Windows OS only.
+* [jq](https://github.com/stedolan/jq) – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
+* [resty](https://github.com/micha/resty) – Little command line REST client that you can use in pipelines (bash or zsh).
 
 ### Mocking
 
-* [FakeRest](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
-* [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
-* [json-server](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
-* [Mocky.io](http://www.mocky.io/) - Free online service to create fake HTTP responses.
-* [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
+* [FakeRest](https://github.com/marmelab/FakeRest) – Patch XMLHttpRequest to fake a REST API client-side.
+* [JSON Placeholder](http://jsonplaceholder.typicode.com/) – Free online REST service that you can use whenever you need some fake data.
+* [json-server](https://github.com/typicode/json-server) – Serve a REST API from fixture files using quick prototyping.
+* [Mocky.io](http://www.mocky.io/) – Free online service to create fake HTTP responses.
+* [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) – Mock RESTful API based on swagger schema
 
 ## Documentation
 
@@ -125,11 +125,11 @@
 > Based in DDD (Domain Driven Development). Generates automatically API's in different languages.
 
 * [API Plug](https://apiplug.com/) – Hassle-free API Generation.
-* [Apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
+* [Apiary](https://apiary.io/) – Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 * [wrapAPI, Build an API on top of any website](https://wrapapi.com).
 * [import.io, turn web pages into Data](https://www.import.io/).
 * [RAML, RESTful API Modeling Language](http://raml.org).
-* [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
+* [Runscope](https://www.runscope.com/) – Automated API Monitoring & Testing.
 * [swagger.io](http://swagger.io).
 
 ## Libraries
