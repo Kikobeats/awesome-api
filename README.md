@@ -130,6 +130,7 @@
 * [RAML, RESTful API Modeling Language](http://raml.org).
 * [Runscope](https://www.runscope.com/) – Automated API Monitoring & Testing.
 * [swagger.io](http://swagger.io).
+* [Expressa](https://github.com/thomas4019/expressa) - REST APIs powered by [JSON Schema](http://json-schema.org/) files with an Admin editor.
 
 ## Libraries
 
