@@ -78,7 +78,6 @@
 * [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs)
 * [Mashape](https://market.mashape.com/explore).
 * [Programmable Web API Directory](http://www.programmableweb.com/apis/directory)
-* [publicapis.com](https://www.publicapis.com/).
 * [APIs.guru](http://APIs.guru)
 
 ## Testing
