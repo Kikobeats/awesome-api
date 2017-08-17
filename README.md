@@ -76,12 +76,12 @@
 
 ### Curated list
 
-* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs)
-* [public apis](https://github.com/toddmotto/public-apis)
+* [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) – A public list of APIs from round the web.
+* [public apis](https://github.com/toddmotto/public-apis) – A collective list of public JSON APIs for use in web development.
 
 ### Directory
 
-* [apis.io](http://apis.io).
+* [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
 * [Mashape](https://market.mashape.com/explore).
 
 ## Testing
