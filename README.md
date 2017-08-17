@@ -74,12 +74,15 @@
 
 > Need a API for your projects?
 
-* [apis.io](http://apis.io).
-* [public apis](https://github.com/toddmotto/public-apis)
+### Curated list
+
 * [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs)
+* [public apis](https://github.com/toddmotto/public-apis)
+
+### Directory
+
+* [apis.io](http://apis.io).
 * [Mashape](https://market.mashape.com/explore).
-* [Programmable Web API Directory](http://www.programmableweb.com/apis/directory)
-* [APIs.guru](http://APIs.guru)
 
 ## Testing
 
