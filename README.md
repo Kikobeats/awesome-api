@@ -2,6 +2,10 @@
 
 > A curated list of awesome resources for design and implement RESTful APIs.
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/Vw5Z2hwpBN8pn4UqqSrnHYY9/Kikobeats/awesome-api'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/Vw5Z2hwpBN8pn4UqqSrnHYY9/Kikobeats/awesome-api.svg' />
+</a>
+
 ## Design
 
 ### Overview
