@@ -17,6 +17,7 @@
 * [RAPIS: A REST API Standard for the 21th century](https://github.com/lambda2/rapis).
 * [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines).
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines).
+* [Allegro REST API Guidelines](https://github.com/allegro/restapi-guideline).
 
 ### Status Code
 
