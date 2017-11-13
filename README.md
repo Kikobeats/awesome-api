@@ -92,6 +92,7 @@
 * [HttpMaster](http://www.httpmaster.net) – GUI tool for testing REST APIs and services. Windows OS only.
 * [jq](https://github.com/stedolan/jq) – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
+* [Postman](https://www.getpostman.com/) - GUI REST Client and sharing tool
 * [resty](https://github.com/micha/resty) – Little command line REST client that you can use in pipelines (bash or zsh).
 
 ### Mocking
@@ -101,6 +102,10 @@
 * [json-server](https://github.com/typicode/json-server) – Get a full fake REST API with zero coding in less than 30 seconds.
 * [Mocky.io](http://www.mocky.io/) – Free online service to create fake HTTP responses.
 * [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) – Mock RESTful API based on swagger schema
+
+### Integration Testing
+* [Newman](https://github.com/postmanlabs/newman) - CLI interface for running postman tests in CI
+* [Tavern](https://taverntesting.github.io/) - Simple but extendible API testing framework, with yaml test definitions and python extensions.
 
 ## Documentation
 
