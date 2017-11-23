@@ -53,6 +53,12 @@
 
 * [The OAuth Bible by Mashape](http://oauthbible.com/).
 
+## Caching
+
+* [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices/).
+* [Increasing Application Performance with HTTP Cache Headers](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers).
+* [Using Cloudflare with your API](https://support.cloudflare.com/hc/en-us/articles/200504045-Using-Cloudflare-with-your-API).
+
 ## Security
 
 * [Helmet, help secure Express/Connect apps with various HTTP headers](https://www.npmjs.com/package/helmet).
