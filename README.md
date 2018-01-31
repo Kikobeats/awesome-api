@@ -167,6 +167,7 @@
 
 * [API Umbrella](http://apiumbrella.io/).
 * [ApiAxle](http://apiaxle.com).
+* [KrakenD](http://krakend.io).
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
