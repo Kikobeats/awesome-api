@@ -121,7 +121,7 @@
 
 ### Services
 
-* [Mashape](http://docs.mashape.com/documenting-api).
+* [RapidAPI](https://docs.rapidapi.com/docs).
 * [Readme.io](https://readme.io/).
 
 ## Logging
@@ -133,7 +133,7 @@
 
 > Based in DDD (Domain Driven Development). Generates automatically API's in different languages.
 
-* [API Plug](https://apiplug.com/) – Hassle-free API Generation.
+* [Alteranatives to API Plug](https://www.producthunt.com/alternatives/api-plug) – 9 alternative and related products to api plug.
 * [Apiary](https://apiary.io/) – Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 * [wrapAPI, Build an API on top of any website](https://wrapapi.com).
 * [import.io, turn web pages into Data](https://www.import.io/).
