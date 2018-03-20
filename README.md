@@ -17,6 +17,8 @@
 * [RAPIS: A REST API Standard for the 21th century](https://github.com/lambda2/rapis).
 * [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines).
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines).
+* [Zalando RESTful API and Event Scheme Guidelines](http://zalando.github.io/restful-api-guidelines/)
+* [gov.uk API technical and data standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards)
 
 ### Status Code
 
