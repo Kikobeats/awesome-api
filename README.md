@@ -111,6 +111,12 @@
 * [Mocky.io](http://www.mocky.io/) – Free online service to create fake HTTP responses.
 * [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) – Mock RESTful API based on swagger schema
 
+### Response
+
+* [httpstat.us](https://httpstat.us) – A super simple service for generating different HTTP codes.
+* [httpbin](https://httpbin.org) – httpbin(1): HTTP Request & Response Service.
+* [badssl](https://badssl.com) – Testing clients against bad SSL configs.
+
 ## Documentation
 
 > One of the most important part of your API is have a good documentation and updated with the code.
