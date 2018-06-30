@@ -166,6 +166,7 @@
 
 * [Loopback](http://loopback.io).
 * [Sails.js](http://sailsjs.org).
+* [rest-hapi](https://resthapi.com).
 
 ## Gateways
 
