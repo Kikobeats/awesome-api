@@ -159,6 +159,7 @@
 * [node-uuid](https://github.com/broofa/node-uuid) – Simple and fast generation of UUIDS.
 * [Supertest](https://www.npmjs.com/package/supertest) – Super-agent driven library for testing HTTP servers.
 * [Unirest](http://unirest.io) – Lightweight HTTP Request Client Libraries.
+* [Yamlinc](https://github.com/javanile/yamlinc) – Compose multiple Yaml files with $include tag.
 
 ## Frameworks
 
