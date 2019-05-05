@@ -77,6 +77,7 @@
 * [OData](http://www.odata.org/) – Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
 * [RAML](http://raml.org/) – Simple and succinct way to describe RESTful API.
 * [Schema.org](http://schema.org) – Collection of schemas describing common data models.
+* [OpenAPI](https://www.openapis.org/about) - Vendor-neutral open description format for API services
 
 ## Discover
 
@@ -166,6 +167,7 @@
 
 * [Loopback](http://loopback.io).
 * [Sails.js](http://sailsjs.org).
+* [MicroTS](https://www.npmjs.com/package/microts) code generator with interface-first approach from OpenAPI specification.
 
 ## Gateways
 
