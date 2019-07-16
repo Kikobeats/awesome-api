@@ -167,7 +167,7 @@
 
 * [Loopback](http://loopback.io).
 * [Sails.js](http://sailsjs.org).
-* [MicroTS](https://www.npmjs.com/package/microts) code generator with interface-first approach from OpenAPI specification.
+* [MicroTS](https://www.npmjs.com/package/microts) – code generator with interface-first approach from OpenAPI specification.
 
 ## Gateways
 
