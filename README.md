@@ -101,6 +101,7 @@
 * [jq](https://github.com/stedolan/jq) – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
 * [resty](https://github.com/micha/resty) – Little command line REST client that you can use in pipelines (bash or zsh).
+* [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
 
 ### Mocking
 
