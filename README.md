@@ -45,7 +45,6 @@
 * [JWT.io](http://jwt.io/).
 * [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/).
 * [Why Meteor doesn't use session cookies](http://info.meteor.com/blog/session-cookies).
-* [JWTinspector.io](https://www.jwtinspector.io).
 
 ### Authorization
 
@@ -110,7 +109,6 @@
 * [json-server](https://github.com/typicode/json-server) – Get a full fake REST API with zero coding in less than 30 seconds.
 * [Randommer.io](https://randommer.io/randommer-api/) – REST API for random data.
 * [Mocky.io](http://www.mocky.io/) – Free online service to create fake HTTP responses.
-* [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) – Mock RESTful API based on swagger schema
 
 ### Response
 
@@ -125,7 +123,6 @@
 ### Free
 
 * [docbox](https://github.com/tmcw/docbox) ([demo](https://67-53007065-gh.circle-artifacts.com/0/tmp/circle-artifacts.NCC9T6a/index.html#our-api)).
-* [slate](https://github.com/tripit/slate) ([demo](https://lord.github.io/slate/#introduction)).
 * [whiteboard](https://github.com/mpociot/whiteboard) ([demo](http://marcelpociot.de/whiteboard)).
 
 ### Services
@@ -135,7 +132,6 @@
 
 ## Logging
 
-* [keymetrics.io](https://keymetrics.io).
 * [morgan for expressjs](https://github.com/expressjs/morgan).
 
 ## Modeling and SaaS
@@ -175,7 +171,6 @@
 ### Open Source / Self-hosted
 
 * [API Umbrella](http://apiumbrella.io/).
-* [ApiAxle](http://apiaxle.com).
 * [KrakenD](http://krakend.io).
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
