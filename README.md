@@ -64,6 +64,7 @@
 ## Security
 
 * [Helmet, help secure Express/Connect apps with various HTTP headers](https://www.npmjs.com/package/helmet).
+* [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices).
 * [Node Security Project](https://nodesecurity.io/).
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
 
