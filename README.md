@@ -168,6 +168,7 @@
 
 * [Loopback](http://loopback.io).
 * [Sails.js](http://sailsjs.org).
+* [FastAPI](https://github.com/tiangolo/fastapi).
 * [rest-hapi](https://resthapi.com).
 
 ## Gateways
