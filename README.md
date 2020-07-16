@@ -45,6 +45,7 @@
 * [JWT.io](http://jwt.io/).
 * [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/).
 * [Why Meteor doesn't use session cookies](http://info.meteor.com/blog/session-cookies).
+* [Guide on API authentication and authorization](https://www.moesif.com/blog/technical/restful-apis/Authorization-on-RESTful-APIs/).
 
 ### Authorization
 
@@ -91,6 +92,7 @@
 
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
 * [Mashape](https://market.mashape.com/explore).
+* [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
 ## Testing
 
@@ -134,11 +136,13 @@
 
 * [RapidAPI](https://docs.rapidapi.com/docs).
 * [Readme.io](https://readme.io/).
+* [GitBook](https://www.gitbook.com/).
 
 ## Logging
 
 * [PM2 by keymetrics](https://pm2.keymetrics.io/s).
 * [morgan for expressjs](https://github.com/expressjs/morgan).
+* [Moesif API Analytics](https://www.moesif.com/features/api-logs). Log and Understand API Traffic. 
 
 ## Modeling and SaaS
 
