@@ -112,6 +112,7 @@
 * [json-server](https://github.com/typicode/json-server) – Get a full fake REST API with zero coding in less than 30 seconds.
 * [Mocky.io](http://www.mocky.io/) – Free online service to create fake HTTP responses.
 * [FakeQL](https://fakeql.com/) – Mainly focused on GraphQL, but can mock RESTful APIs, as well.
+* [PIPL API](https://pipl.ir) – Free and public API that generates random and fake people's data in JSON
 
 ### Response
 
