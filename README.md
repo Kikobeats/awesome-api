@@ -12,7 +12,7 @@
 * [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
 * [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference).
 * [API Terms Glossary](https://github.com/Mashape/apiglossary).
-* [HTTP API Design](https://github.com/interagent/http-api-design) – Guide extracted from work on the Heroku Platform API.
+* [HTTP API Design by Heroku](https://github.com/interagent/http-api-design).
 * [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com).
 * [RAPIS: A REST API Standard for the 21th century](https://github.com/lambda2/rapis).
 * [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines).
@@ -45,7 +45,6 @@
 * [JWT.io](http://jwt.io/).
 * [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/).
 * [Why Meteor doesn't use session cookies](http://info.meteor.com/blog/session-cookies).
-* [JWTinspector.io](https://www.jwtinspector.io).
 
 ### Authorization
 
@@ -53,7 +52,7 @@
 
 > An open protocol to allow secure authorization in a simple and standard method from web, mobile and desktop applications
 
-* [The OAuth Bible by Mashape](http://oauthbible.com/).
+* [The OAuth Bible by Mashape](https://github.com/Kong/mashape-oauth/blob/master/FLOWS.md).
 
 ## Caching
 
@@ -112,7 +111,6 @@
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) – Free online REST service that you can use whenever you need some fake data.
 * [json-server](https://github.com/typicode/json-server) – Get a full fake REST API with zero coding in less than 30 seconds.
 * [Mocky.io](http://www.mocky.io/) – Free online service to create fake HTTP responses.
-* [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) – Mock RESTful API based on swagger schema
 * [FakeQL](https://fakeql.com/) – Mainly focused on GraphQL, but can mock RESTful APIs, as well.
 
 ### Response
@@ -138,7 +136,7 @@
 
 ## Logging
 
-* [keymetrics.io](https://keymetrics.io).
+* [PM2 by keymetrics](https://pm2.keymetrics.io/s).
 * [morgan for expressjs](https://github.com/expressjs/morgan).
 
 ## Modeling and SaaS
@@ -162,7 +160,6 @@
 * [node-ratelimiter](https://github.com/tj/node-ratelimiter) – Rate limiter for Node.js backed by Redis.
 * [node-uuid](https://github.com/broofa/node-uuid) – Simple and fast generation of UUIDS.
 * [Supertest](https://www.npmjs.com/package/supertest) – Super-agent driven library for testing HTTP servers.
-* [Unirest](http://unirest.io) – Lightweight HTTP Request Client Libraries.
 
 ## Frameworks
 
