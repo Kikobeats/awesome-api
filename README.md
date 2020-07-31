@@ -128,9 +128,9 @@
 
 ### Free
 
-* [docbox](https://github.com/tmcw/docbox) ([demo](https://67-53007065-gh.circle-artifacts.com/0/tmp/circle-artifacts.NCC9T6a/index.html#our-api)).
-* [slate](https://github.com/tripit/slate) ([demo](https://lord.github.io/slate/#introduction)).
-* [whiteboard](https://github.com/mpociot/whiteboard) ([demo](http://marcelpociot.de/whiteboard)).
+* [docbox](https://github.com/tmcw/docbox).
+* [slate](https://github.com/tripit/slate).
+* [whiteboard](https://github.com/mpociot/whiteboard).
 
 ### Services
 
@@ -140,7 +140,7 @@
 
 ## Logging
 
-* [PM2 by keymetrics](https://pm2.keymetrics.io/s).
+* [PM2 by keymetrics](https://pm2.keymetrics.io).
 * [morgan for expressjs](https://github.com/expressjs/morgan).
 * [Moesif API Analytics](https://www.moesif.com/features/api-logs). Log and Understand API Traffic. 
 
