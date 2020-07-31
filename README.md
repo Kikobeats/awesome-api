@@ -140,7 +140,7 @@
 
 ## Logging
 
-* [PM2 by keymetrics](https://pm2.keymetrics.io/s).
+* [PM2 by keymetrics](https://pm2.keymetrics.io).
 * [morgan for expressjs](https://github.com/expressjs/morgan).
 * [Moesif API Analytics](https://www.moesif.com/features/api-logs). Log and Understand API Traffic. 
 
