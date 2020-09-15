@@ -90,6 +90,7 @@
 
 ### Directory
 
+* [Abstract APIs](https://www.abstractapi.com) – Suite of API's for everyday tasks (validating emails, calculating VAT, generating avatars, etc)
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
 * [Mashape](https://market.mashape.com/explore).
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
