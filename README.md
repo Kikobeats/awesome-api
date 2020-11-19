@@ -27,6 +27,7 @@
 * [HTTP Status code table in RESTAPITutorial](http://www.restapitutorial.com/httpstatuscodes.html).
 * [httpstatuses.com](https://httpstatuses.com/)
 * [Status code definition in W3C](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html).
+* [HTTP Status Code Guides](https://tryhexadecimal.com/guides/http/)
 
 ### Authentication
 
@@ -141,7 +142,7 @@
 
 * [PM2 by keymetrics](https://pm2.keymetrics.io).
 * [morgan for expressjs](https://github.com/expressjs/morgan).
-* [Moesif API Analytics](https://www.moesif.com/features/api-logs). Log and Understand API Traffic. 
+* [Moesif API Analytics](https://www.moesif.com/features/api-logs). Log and Understand API Traffic.
 
 ## Modeling and SaaS
 
