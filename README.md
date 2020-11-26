@@ -105,6 +105,7 @@
 * [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
 * [resty](https://github.com/micha/resty) – Little command line REST client that you can use in pipelines (bash or zsh).
 * [TestMace](https://testmace.com) – A modern powerful crossplatform tool for working with API and creating automated API tests.
+* [Schemathesis](https://github.com/schemathesis/schemathesis) – A property-based testing tool for web applications built with Open API and GraphQL specifications.
 
 ### Mocking
 
