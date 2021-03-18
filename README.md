@@ -95,6 +95,10 @@
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
+## Platforms & Infrastructure
+
+* [Stream Chat & Feeds](https://getstream.io/) - Build scalable in-app chat or activity feeds in days. Batteries included API with SDKs for all major languages. Free for startups and small teams with the [Maker Account](https://getstream.io/chat/pricing/).
+
 ## Testing
 
 ### Querying
