@@ -162,6 +162,7 @@
 > Used it to improve your workflow
 
 * [hello.js](http://adodson.com/hello.js/#hellojs) – A client-side Javascript SDK for authenticating with OAuth2.
+* [Nango](https://www.nango.dev) – Framework for native integrations (to build towards REST APIs).
 * [nock](https://www.npmjs.com/package/nock) – HTTP Server mocking for Node.js
 * [node-ratelimiter](https://github.com/tj/node-ratelimiter) – Rate limiter for Node.js backed by Redis.
 * [node-uuid](https://github.com/broofa/node-uuid) – Simple and fast generation of UUIDS.
@@ -186,5 +187,6 @@
 * [ApiAxle](http://apiaxle.com).
 * [KrakenD](http://krakend.io).
 * [Mashape Kong](https://getkong.org/).
+* [Nango](https://www.nango.dev).
 * [Tyk](https://tyk.io/).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
