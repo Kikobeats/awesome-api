@@ -20,6 +20,7 @@
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines).
 * [Zalando RESTful API and Event Scheme Guidelines](http://zalando.github.io/restful-api-guidelines/)
 * [gov.uk API technical and data standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards)
+* [Monite API Style Guide and Spectral rulesets](https://github.com/team-monite/api-style-guide)
 
 ### Status Code
 
