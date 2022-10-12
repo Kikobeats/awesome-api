@@ -106,6 +106,7 @@
 * [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
 * [resty](https://github.com/micha/resty) – Little command line REST client that you can use in pipelines (bash or zsh).
 * [TestMace](https://testmace.com) – A modern powerful crossplatform tool for working with API and creating automated API tests.
+* [Dadroit JSON Viewer](https://dadroit.com) - Search in huge (multi gigabytes) JSON and JSON log (JSON-Lines and ndjson) files.
 
 ### Mocking
 
