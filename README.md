@@ -21,6 +21,7 @@
 * [Zalando RESTful API and Event Scheme Guidelines](http://zalando.github.io/restful-api-guidelines/)
 * [gov.uk API technical and data standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards)
 * [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
+* [The Design of Web APIs, Second Edition](https://www.manning.com/books/the-design-of-web-apis-second-edition)
 
 ### Status Code
 
