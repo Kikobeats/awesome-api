@@ -189,3 +189,9 @@
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
+
+## Egress Proxy
+
+> Improve the way you and your infrastrcutre consome API and help make it more resilient and fault tollerant
+
+* [Lunar](https://github.com/TheLunarCompany/lunar) - control, optimize and increase resilient of third-party API consumption.
