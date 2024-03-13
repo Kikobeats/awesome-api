@@ -117,7 +117,7 @@
 * [Mocky.io](http://www.mocky.io/) – Free online service to create fake HTTP responses.
 * [FakeQL](https://fakeql.com/) – Mainly focused on GraphQL, but can mock RESTful APIs, as well.
 * [PIPL API](https://pipl.ir) – Free and public API that generates random and fake people's data in JSON
-* [API Mocha](https://apimocha.com) - Free online service providing fake REST API endpoints, create customizable responses and download rules as a Postman collection.
+* [API Mocha](https://apimocha.com) - Free online service providing fake REST API endpoints, create customizable responses, and download rules as a Postman collection.
 ### Response
 
 * [httpstat.us](https://httpstat.us) – A super simple service for generating different HTTP codes.
@@ -126,7 +126,7 @@
 
 ## Documentation
 
-> One of the most important part of your API is have a good documentation and updated with the code.
+> One of the most important parts of your API is to have good documentation which is updated with the code.
 
 ### Free
 
@@ -157,6 +157,7 @@
 * [RAML, RESTful API Modeling Language](http://raml.org).
 * [Runscope](https://www.runscope.com/) – Automated API Monitoring & Testing.
 * [swagger.io](http://swagger.io).
+* [Beeceptor: CRUD API Builder](https://beeceptor.com/crud-api/?ref=awesome-api) - Beeceptor's hosted CRUD APIs provide stateful storage capabilities. With each CRUD route, you get six APIs for object management, all adhering to JSON REST API principles.
 
 ## Libraries
 
