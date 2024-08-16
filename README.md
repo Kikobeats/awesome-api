@@ -21,6 +21,8 @@
 * [Zalando RESTful API and Event Scheme Guidelines](http://zalando.github.io/restful-api-guidelines/)
 * [gov.uk API technical and data standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards)
 * [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
+* [Build vs Buy: API Management Tools](https://zuplo.com/build-vs-buy-api-management-tools)
+* [How to Successfully Promote and Market an API](https://zuplo.com/how-to-successfully-promote-and-market-an-api)
 
 ### Status Code
 
@@ -189,3 +191,7 @@
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
+
+### Fully-Managed / Cloud
+
+* [Zuplo](https://zuplo.com)
