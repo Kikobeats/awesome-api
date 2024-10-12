@@ -162,11 +162,9 @@
 
 > Used it to improve your workflow
 
-* [hello.js](http://adodson.com/hello.js/#hellojs) – A client-side Javascript SDK for authenticating with OAuth2.
-* [nock](https://www.npmjs.com/package/nock) – HTTP Server mocking for Node.js
 * [async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter) – Rate limit made simple, easy, async, backed in Redis.
-* [node-uuid](https://github.com/broofa/node-uuid) – Simple and fast generation of UUIDS.
-* [Supertest](https://www.npmjs.com/package/supertest) – Super-agent driven library for testing HTTP servers.
+* [hashids](https://github.com/niieani/hashids.js) – A small JavaScript library to generate YouTube-like ids from numbers.
+* [typeid-js](https://github.com/jetify-com/typeid-js) – Type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 
 ## Frameworks
 
