@@ -164,7 +164,7 @@
 
 * [hello.js](http://adodson.com/hello.js/#hellojs) – A client-side Javascript SDK for authenticating with OAuth2.
 * [nock](https://www.npmjs.com/package/nock) – HTTP Server mocking for Node.js
-* [node-ratelimiter](https://github.com/tj/node-ratelimiter) – Rate limiter for Node.js backed by Redis.
+* [async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter) – Rate limit made simple, easy, async, backed in Redis.
 * [node-uuid](https://github.com/broofa/node-uuid) – Simple and fast generation of UUIDS.
 * [Supertest](https://www.npmjs.com/package/supertest) – Super-agent driven library for testing HTTP servers.
 
