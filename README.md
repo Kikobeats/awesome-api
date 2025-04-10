@@ -38,6 +38,12 @@
 * [The Problem With API Authentication in Express](https://stormpath.com/blog/the-problem-with-api-authentication-in-express/).
 * [Web Authentication Methods Explained](https://blog.risingstack.com/web-authentication-methods-explained/).
 
+### Weather
+
+* [meteoblue](https://content.meteoblue.com/en/business-solutions/weather-apis) – Global weather data with 100+ weather variables, 14 days ahead and 4 days of history data.
+
+
+
 #### JWT
 
 > JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
