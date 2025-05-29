@@ -145,7 +145,7 @@
 * [PM2 by keymetrics](https://pm2.keymetrics.io).
 * [morgan for expressjs](https://github.com/expressjs/morgan).
 * [Moesif API Analytics](https://www.moesif.com/features/api-logs). Log and Understand API Traffic.
-* [Apitally](https://apitally.io) - Privacy-focussed API analytics, logging and monitoring.
+* [Apitally](https://apitally.io) - Simple, privacy-focused API monitoring, analytics, and request logging.
 
 ## Modeling and SaaS
 
