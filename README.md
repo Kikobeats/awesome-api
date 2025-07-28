@@ -133,6 +133,7 @@
 * [docbox](https://github.com/tmcw/docbox).
 * [slate](https://github.com/tripit/slate).
 * [whiteboard](https://github.com/mpociot/whiteboard).
+* [Zudoku](https://zudoku.dev/).
 
 ### Services
 
@@ -187,3 +188,4 @@
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
+* [Zuplo](https://zuplo.com/)
