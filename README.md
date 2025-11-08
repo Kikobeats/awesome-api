@@ -95,6 +95,7 @@
 
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
+* [Vedika API](https://vedika.io) – AI-powered Vedic astrology API with birth charts, compatibility, doshas, muhurtha, and numerology in 22 languages.
 
 ## Testing
 
