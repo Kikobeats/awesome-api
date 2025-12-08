@@ -139,6 +139,10 @@
 * [RapidAPI](https://docs.rapidapi.com/docs).
 * [Readme.io](https://readme.io/).
 * [GitBook](https://www.gitbook.com/).
+* * [AstraScout Crypto API](https://rapidapi.com/AstraScout/api/astrascout-crypto-api)
+  Multi-source crypto price API with fallback, caching, 26 tokens, price-per-token, price-all, and utility scoring.
+* [AstraScout Market Insights API](https://rapidapi.com/AstraScout/api/astrascout-market-insights-api)
+  Real-time crypto market insights including Fear & Greed Index, volatility, momentum, and sentiment analytics.
 
 ## Logging
 
