@@ -105,6 +105,7 @@
 * [HttpMaster](http://www.httpmaster.net) – GUI tool for testing REST APIs and services. Windows OS only.
 * [jq](https://github.com/stedolan/jq) – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
+* [Requestly](https://requestly.com) – Lightweight Git-Friendly API Client Built for Modern Developers.
 * [resty](https://github.com/micha/resty) – Little command line REST client that you can use in pipelines (bash or zsh).
 * [TestMace](https://testmace.com) – A modern powerful crossplatform tool for working with API and creating automated API tests.
 
