@@ -187,3 +187,5 @@
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
+
+* [Vedika](https://vedika.io) - Vedic astrology REST API
