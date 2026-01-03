@@ -187,4 +187,5 @@
 * [KrakenD](http://krakend.io).
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
+* [Vedika](https://vedika.io) - REST API for Vedic astrology calculations, birth charts, horoscopes, panchang, dosha analysis, kundali matching, and AI-powered astrology chatbot.
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
