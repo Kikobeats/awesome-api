@@ -118,6 +118,8 @@
 * [FakeQL](https://fakeql.com/) – Mainly focused on GraphQL, but can mock RESTful APIs, as well.
 * [PIPL API](https://pipl.ir) – Free and public API that generates random and fake people's data in JSON
 * [API Mocha](https://apimocha.com) - Free online service providing fake REST API endpoints, create customizable responses and download rules as a Postman collection.
+* [Webhook Debugger](https://github.com/brancogao/webhook-debugger) – Open-source webhook inspector with signature verification and 90-day history.
+
 ### Response
 
 * [httpstat.us](https://httpstat.us) – A super simple service for generating different HTTP codes.
