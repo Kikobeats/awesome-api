@@ -15,7 +15,7 @@
 * [API Terms Glossary](https://github.com/Mashape/apiglossary).
 * [HTTP API Design by Heroku](https://github.com/interagent/http-api-design).
 * [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com).
-* [RAPIS: A REST API Standard for the 21th century](https://github.com/lambda2/rapis).
+* [RAPIS: A REST API Standard for the 21st century](https://github.com/lambda2/rapis).
 * [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines).
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines).
 * [Zalando RESTful API and Event Scheme Guidelines](http://zalando.github.io/restful-api-guidelines/)
@@ -106,6 +106,7 @@
 * [jq](https://github.com/stedolan/jq) – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
 * [resty](https://github.com/micha/resty) – Little command line REST client that you can use in pipelines (bash or zsh).
+* [Postman](https://www.postman.com/) – API platform for building, testing, and documenting APIs.
 * [TestMace](https://testmace.com) – A modern powerful crossplatform tool for working with API and creating automated API tests.
 
 ### Mocking
