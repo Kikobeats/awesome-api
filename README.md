@@ -123,6 +123,7 @@
 * [httpstat.us](https://httpstat.us) – A super simple service for generating different HTTP codes.
 * [httpbin](https://httpbin.org) – httpbin(1): HTTP Request & Response Service.
 * [badssl](https://badssl.com) – Testing clients against bad SSL configs.
+* [PageGuard API](https://pageguard.qiudeqiu.workers.dev) - Free website health check API. Monitor SEO, performance, accessibility, and best practices. No authentication required.
 
 ## Documentation
 
