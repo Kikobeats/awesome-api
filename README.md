@@ -187,3 +187,7 @@
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
+
+### Hosted
+
+* [Agent Gateway](https://agent-gateway-kappa.vercel.app) – Unified hosted API gateway providing 39 microservices (crypto prices, email, scheduling, webhooks, PDF generation, identity, and more) under one API key. Free tier available.
