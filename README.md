@@ -187,3 +187,7 @@
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
+
+### Hosted
+
+* [Agent Gateway](https://agent-gateway-kappa.vercel.app) - Unified API for 34+ AI agent services (memory, wallets, code execution, scheduling) with credit-based billing.
