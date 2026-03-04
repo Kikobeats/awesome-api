@@ -8,17 +8,17 @@
 
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
-* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) [[spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)].
+* [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) [[spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)].
 * [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
 * [StackOverflow best REST API Design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/).
 * [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference).
 * [API Terms Glossary](https://github.com/Mashape/apiglossary).
 * [HTTP API Design by Heroku](https://github.com/interagent/http-api-design).
-* [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com).
+* [Learn REST: A RESTful Tutorial](https://www.restapitutorial.com).
 * [RAPIS: A REST API Standard for the 21th century](https://github.com/lambda2/rapis).
 * [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines).
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines).
-* [Zalando RESTful API and Event Scheme Guidelines](http://zalando.github.io/restful-api-guidelines/)
+* [Zalando RESTful API and Event Scheme Guidelines](https://zalando.github.io/restful-api-guidelines/)
 * [gov.uk API technical and data standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards)
 * [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
 
@@ -26,9 +26,9 @@
 
 > When you are using a REST design you have to provide the HTTP status code that are the more appropriated to respond to the request.
 
-* [HTTP Status code table in RESTAPITutorial](http://www.restapitutorial.com/httpstatuscodes.html).
+* [HTTP Status code table in RESTAPITutorial](https://www.restapitutorial.com/httpstatuscodes.html).
 * [httpstatuses.com](https://httpstatuses.com/)
-* [Status code definition in W3C](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html).
+* [Status code definition in W3C](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html).
 * [HTTP Status Code Guides](https://tryhexadecimal.com/guides/http/)
 
 ### Authentication
@@ -45,7 +45,7 @@
 * [10 Things You Should Know about Tokens](https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/).
 * [Cookies vs Tokens](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/).
 * [JWT Draft in IETF](https://tools.ietf.org/html/draft-ietf-oauth-json-web-token).
-* [JWT.io](http://jwt.io/).
+* [JWT.io](https://jwt.io/).
 * [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/).
 * [Why Meteor doesn't use session cookies](http://info.meteor.com/blog/session-cookies).
 * [Guide on API authentication and authorization](https://www.moesif.com/blog/technical/restful-apis/Authorization-on-RESTful-APIs/).
@@ -73,14 +73,14 @@
 
 ## Format
 
-* [HAL](http://stateless.co/hal_specification.html) – Simple format that gives a consistent and easy way to hyperlink between resources in your API (see: [HATEOAS](#hateoas)).
-* [Hydra](http://www.hydra-cg.com/) – Vocabulary for Hypermedia-Driven Web APIs (W3C).
+* [HAL](https://stateless.co/hal_specification.html) – Simple format that gives a consistent and easy way to hyperlink between resources in your API (see: [HATEOAS](#hateoas)).
+* [Hydra](https://www.hydra-cg.com/) – Vocabulary for Hypermedia-Driven Web APIs (W3C).
 * [JSend](http://labs.omniti.com/labs/jsend) – Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
-* [JSON API](http://jsonapi.org/) – Standard for building APIs in JSON.
-* [JSON-LD](http://json-ld.org/) – Standard for describing Linked Data and hypermedia relations in JSON (W3C).
-* [OData](http://www.odata.org/) – Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
-* [RAML](http://raml.org/) – Simple and succinct way to describe RESTful API.
-* [Schema.org](http://schema.org) – Collection of schemas describing common data models.
+* [JSON API](https://jsonapi.org/) – Standard for building APIs in JSON.
+* [JSON-LD](https://json-ld.org/) – Standard for describing Linked Data and hypermedia relations in JSON (W3C).
+* [OData](https://www.odata.org/) – Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
+* [RAML](https://raml.org/) – Simple and succinct way to describe RESTful API.
+* [Schema.org](https://schema.org) – Collection of schemas describing common data models.
 
 ## Discover
 
@@ -93,7 +93,7 @@
 
 ### Directory
 
-* [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
+* [apis.io](https://apis.io) – API Search service to help discover APIs on the web.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
 ## Testing
@@ -112,7 +112,7 @@
 
 * [Beeceptor](https://beeceptor.com) - Beeceptor helps intercepting API calls and mocking them selectively. Creates an endpoint for wrapping original API and routes requests.
 * [FakeRest](https://github.com/marmelab/FakeRest) – Patch XMLHttpRequest to fake a REST API client-side.
-* [JSON Placeholder](http://jsonplaceholder.typicode.com/) – Free online REST service that you can use whenever you need some fake data.
+* [JSON Placeholder](https://jsonplaceholder.typicode.com/) – Free online REST service that you can use whenever you need some fake data.
 * [json-server](https://github.com/typicode/json-server) – Get a full fake REST API with zero coding in less than 30 seconds.
 * [Mocky.io](http://www.mocky.io/) – Free online service to create fake HTTP responses.
 * [FakeQL](https://fakeql.com/) – Mainly focused on GraphQL, but can mock RESTful APIs, as well.
@@ -154,9 +154,9 @@
 * [Apiary](https://apiary.io/) – Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 * [wrapAPI, Build an API on top of any website](https://wrapapi.com).
 * [import.io, turn web pages into Data](https://www.import.io/).
-* [RAML, RESTful API Modeling Language](http://raml.org).
+* [RAML, RESTful API Modeling Language](https://raml.org).
 * [Runscope](https://www.runscope.com/) – Automated API Monitoring & Testing.
-* [swagger.io](http://swagger.io).
+* [swagger.io](https://swagger.io).
 
 ## Libraries
 
@@ -170,8 +170,8 @@
 
 > Designed specifically for building RESTful API's Quickly.
 
-* [Loopback](http://loopback.io).
-* [Sails.js](http://sailsjs.org).
+* [Loopback](https://loopback.io).
+* [Sails.js](https://sailsjs.org).
 * [FastAPI](https://github.com/tiangolo/fastapi).
 * [rest-hapi](https://resthapi.com).
 
@@ -181,9 +181,9 @@
 
 ### Open Source / Self-hosted
 
-* [API Umbrella](http://apiumbrella.io/).
-* [ApiAxle](http://apiaxle.com).
-* [KrakenD](http://krakend.io).
+* [API Umbrella](https://apiumbrella.io/).
+* [ApiAxle](https://apiaxle.com).
+* [KrakenD](https://krakend.io).
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
-* [WSO2 API Manager](http://wso2.com/api-management/try-it/).
+* [WSO2 API Manager](https://wso2.com/api-management/try-it/).
