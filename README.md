@@ -181,9 +181,11 @@
 
 ### Open Source / Self-hosted
 
+* [Agent Gateway](https://ozorown.github.io) — 40+ API services (geolocation, crypto, DNS, screenshots, scraping) behind a single gateway with built-in auth, rate limiting, and credit-based billing.
 * [API Umbrella](http://apiumbrella.io/).
 * [ApiAxle](http://apiaxle.com).
 * [KrakenD](http://krakend.io).
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
+
