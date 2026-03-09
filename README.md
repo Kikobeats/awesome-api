@@ -90,6 +90,7 @@
 
 * [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) – A public list of APIs from round the web.
 * [public apis](https://github.com/toddmotto/public-apis) – A collective list of public JSON APIs for use in web development.
+* [Xquik](https://xquik.com) – X (Twitter) real-time data API with 76 endpoints for tweet search, user lookup, follower extraction, account monitoring, and HMAC-signed webhooks.
 
 ### Directory
 
