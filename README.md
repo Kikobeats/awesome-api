@@ -139,6 +139,7 @@
 * [RapidAPI](https://docs.rapidapi.com/docs).
 * [Readme.io](https://readme.io/).
 * [GitBook](https://www.gitbook.com/).
+* [Specway](https://specway.com) - API documentation platform with live OpenAPI spec sync, AI chatbot, and breaking change detection.
 
 ## Logging
 
