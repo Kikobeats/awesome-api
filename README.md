@@ -152,6 +152,7 @@
 
 * [Alteranatives to API Plug](https://www.producthunt.com/alternatives/api-plug) – 9 alternative and related products to api plug.
 * [Apiary](https://apiary.io/) – Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
+* [Foglift Scan API](https://foglift.io/developers) – Free REST API for website SEO and AI visibility analysis. Returns scores, issues, and action plans for any URL.
 * [wrapAPI, Build an API on top of any website](https://wrapapi.com).
 * [import.io, turn web pages into Data](https://www.import.io/).
 * [RAML, RESTful API Modeling Language](http://raml.org).
