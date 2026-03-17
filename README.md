@@ -96,6 +96,8 @@
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
+* [Arch Tools](https://archtools.dev) – The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible.
+
 ## Testing
 
 ### Querying
