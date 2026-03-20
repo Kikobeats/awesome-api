@@ -151,6 +151,7 @@
 > Based in DDD (Domain Driven Development). Generates automatically API's in different languages.
 
 * [Alteranatives to API Plug](https://www.producthunt.com/alternatives/api-plug) – 9 alternative and related products to api plug.
+* [API Status Check](https://apistatuscheck.com) – Real-time status monitoring dashboard that aggregates uptime data from 2,500+ APIs and cloud services.
 * [Apiary](https://apiary.io/) – Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 * [wrapAPI, Build an API on top of any website](https://wrapapi.com).
 * [import.io, turn web pages into Data](https://www.import.io/).
