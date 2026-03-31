@@ -94,6 +94,7 @@
 ### Directory
 
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
+* [FreeKit](https://freekit.dev/) – Free developer toolkit portal with 8 APIs for QR codes, URL shortening, metadata extraction, screenshots, PDF conversion, Open Graph image generation, and more. No API key required.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
 ## Testing
