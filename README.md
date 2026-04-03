@@ -95,6 +95,7 @@
 
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
+* [ToolPipe](https://toolpipe.dev) – Free developer utility API with 55+ endpoints for QR codes, hashing, JSON formatting, UUID generation, DNS lookup, and more.
 
 ## Testing
 
