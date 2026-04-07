@@ -90,6 +90,7 @@
 
 * [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) – A public list of APIs from round the web.
 * [public apis](https://github.com/toddmotto/public-apis) – A collective list of public JSON APIs for use in web development.
+* [RemoteOpenClaw](https://remoteopenclaw.com) – Open marketplace for AI skills and personas built on OpenClaw.
 
 ### Directory
 
