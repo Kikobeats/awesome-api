@@ -2,6 +2,7 @@
 
 > A curated list of awesome resources for design and implement RESTful APIs.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for API workflow orchestration, automated endpoint management, and multi-agent coordination. MIT licensed.
 ## Design
 
 ### Overview
