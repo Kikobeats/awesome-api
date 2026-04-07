@@ -155,6 +155,7 @@
 * [wrapAPI, Build an API on top of any website](https://wrapapi.com).
 * [import.io, turn web pages into Data](https://www.import.io/).
 * [RAML, RESTful API Modeling Language](http://raml.org).
+* [Overloop CLI](https://agent.overloop.ai) – AI-powered outbound API. Source prospects from 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native. `npm i -g overloop-cli`
 * [Runscope](https://www.runscope.com/) – Automated API Monitoring & Testing.
 * [swagger.io](http://swagger.io).
 
