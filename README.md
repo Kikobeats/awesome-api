@@ -94,6 +94,7 @@
 ### Directory
 
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
+* [SearchHive](https://searchhive.dev) - API platform for web scraping, search, and AI-powered research.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
 ## Testing
