@@ -96,6 +96,10 @@
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
+## News and data
+
+* [Helium MCP](https://heliumtrades.com/mcp-page/) - Real-time news from 3.2M+ articles, 37-dimension bias scoring for 210 sources, ML options pricing, and balanced news synthesis via MCP protocol. [GitHub](https://github.com/connerlambden/helium-mcp)
+
 ## Testing
 
 ### Querying
