@@ -95,6 +95,7 @@
 
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
+* [Not Human Search](https://nothumansearch.ai) – Search engine for discovering AI agent tools and APIs. REST API and MCP endpoint for searching 1,750+ AI-accessible tools.
 
 ## Testing
 
