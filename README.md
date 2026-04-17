@@ -114,6 +114,7 @@
 * [FakeRest](https://github.com/marmelab/FakeRest) – Patch XMLHttpRequest to fake a REST API client-side.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) – Free online REST service that you can use whenever you need some fake data.
 * [json-server](https://github.com/typicode/json-server) – Get a full fake REST API with zero coding in less than 30 seconds.
+* [MockBolt](https://mockbolt.com) - Free online mock API generator. Instantly create live REST endpoints from JSON without any signup or configuration.
 * [Mocky.io](http://www.mocky.io/) – Free online service to create fake HTTP responses.
 * [FakeQL](https://fakeql.com/) – Mainly focused on GraphQL, but can mock RESTful APIs, as well.
 * [PIPL API](https://pipl.ir) – Free and public API that generates random and fake people's data in JSON
