@@ -96,6 +96,7 @@
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
+* [OBEDIENCE AI Text API](https://theoxicew-obedience-text-api.hf.space) – Free AI-powered REST API for text processing: summarize, sentiment analysis, keywords, translate, clean. No auth required.
 ## Testing
 
 ### Querying
