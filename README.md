@@ -2,6 +2,12 @@
 
 > A curated list of awesome resources for design and implement RESTful APIs.
 
+
+### AI Text Analysis
+
+* [Obedience Text API](https://theoxicew-obedience-text-api.hf.space) - Free AI text analysis API for summarization, sentiment analysis, keyword extraction, and content cleaning. Perfect for developers building content analysis tools.
+
+
 ## Design
 
 ### Overview
@@ -187,3 +193,53 @@
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
+
+
+## AI Text Processing
+
+* [Obedience AI Text API](https://theoxicew-obedience-text-api.hf.space) - AI-powered text summarization, sentiment analysis, keyword extraction, translation and cleaning. Built with FastAPI and hosted on Hugging Face Space.
+
+
+
+## AI Text Analysis API
+- **Description**: Free API for text summarization, sentiment analysis, keyword extraction, and translation
+- **URL**: https://theoxicew-obedience-text-api.hf.space
+- **Category**: Text Processing
+- **Auth**: None
+- **HTTPS**: Yes
+
+
+## AI Text Analysis API
+
+- **Name**: Obedience AI Text Analysis API
+- **Description**: Free API for text analysis including summarization, sentiment analysis, keyword extraction, translation, and text cleaning
+- **URL**: https://theoxicew-obedience-text-api.hf.space
+- **Category**: AI/ML
+- **Auth**: None
+- **HTTPS**: Yes
+- **CORS**: Unknown
+
+
+## AI Text Analysis API
+
+- **Name**: Obedience AI Text Analysis API
+- **Description**: Free API for text analysis including summarization, sentiment analysis, keyword extraction, translation, and text cleaning
+- **URL**: https://theoxicew-obedience-text-api.hf.space
+- **Category**: AI/ML
+- **Auth**: None
+- **HTTPS**: Yes
+- **CORS**: Unknown
+- **Repo**: https://github.com/vobedience65-cyber/free-ai-text-api
+
+
+## AI Text Analysis API
+
+- **Name**: Obedience AI Text Analysis API
+- **Description**: Free API for text analysis including summarization, sentiment analysis, keyword extraction, translation, and text cleaning
+- **URL**: https://theoxicew-obedience-text-api.hf.space
+- **Category**: AI/ML
+- **Auth**: None
+- **HTTPS**: Yes
+- **CORS**: Yes
+
+- https://theoxicew-obedience-text-api.hf.space – Free AI Text API (summarize, sentiment, keywords, translate, clean)
