@@ -187,3 +187,5 @@
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
 * [WSO2 API Manager](http://wso2.com/api-management/try-it/).
+
+- [REG-Vault](https://regvault.org/docs/api) - Open retro-gaming metadata catalog. 91k games, 99 systems. REST + MCP + OpenAPI 3.0.
