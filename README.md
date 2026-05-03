@@ -90,6 +90,7 @@
 
 * [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) – A public list of APIs from round the web.
 * [public apis](https://github.com/toddmotto/public-apis) – A collective list of public JSON APIs for use in web development.
+* [Suprsonic](https://suprsonic.ai) – Unified agent API: search, scrape, enrich, image gen, TTS, STT, messaging through one key. MCP server + SDKs.
 
 ### Directory
 
