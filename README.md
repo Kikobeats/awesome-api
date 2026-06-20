@@ -94,6 +94,7 @@
 ### Directory
 
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
+* [GeneTech Knowledge Engine](https://genetech.tools) – 12 domain science knowledge base API with 4,000+ structured entities.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
 ## Testing
