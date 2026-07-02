@@ -97,7 +97,7 @@
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
 ## Testing
-
+* [Fixzi](https://fixzi.ai) – API contract testing and AI response validation with JSON Schema validation for REST APIs.
 ### Querying
 
 * [Firecamp](https://firecamp.io) – Protocol agnostic API testing client which help you test and manage RestAPIs, GraphQL, Websocket and many more.
