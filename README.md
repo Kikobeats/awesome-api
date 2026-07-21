@@ -93,6 +93,7 @@
 
 ### Directory
 
+* [AgentServices](https://agentservices.to) – API marketplace with 54 services and 97 endpoints. x402 on-chain payments (USDC on Base) with MCP server (37 tools) for AI agent integration.
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
