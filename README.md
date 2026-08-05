@@ -66,6 +66,7 @@
 
 ## Security
 
+* [QAPractices API Security Testing Guide](https://qapractices.com/documentation/api-security-testing/) – Practical guide to testing APIs for authentication, authorization and common vulnerabilities.
 * [Helmet, help secure Express/Connect apps with various HTTP headers](https://www.npmjs.com/package/helmet).
 * [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices).
 * [Node Security Project](https://nodesecurity.io/).
@@ -100,6 +101,7 @@
 
 ### Querying
 
+* [QAPractices REST API Testing Best Practices](https://qapractices.com/documentation/rest-api-testing-best-practices/) – Practical guide to testing RESTful APIs with real-world examples and checklists.
 * [Firecamp](https://firecamp.io) – Protocol agnostic API testing client which help you test and manage RestAPIs, GraphQL, Websocket and many more.
 * [httpie](https://github.com/jkbrzt/httpie) – Command line HTTP client, far more dev-friendly than `curl`.
 * [HttpMaster](http://www.httpmaster.net) – GUI tool for testing REST APIs and services. Windows OS only.
