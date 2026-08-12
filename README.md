@@ -182,6 +182,7 @@
 ### Open Source / Self-hosted
 
 * [API Umbrella](http://apiumbrella.io/).
+* [Apigee-Lab](https://github.com/SunnyJayaRaju/Apigee-Lab) - Enterprise Apigee X API gateway implementations: OAuth 2.0, JWT auth, spike arrest, rate limiting, API composition & CI/CD.
 * [ApiAxle](http://apiaxle.com).
 * [KrakenD](http://krakend.io).
 * [Mashape Kong](https://getkong.org/).
