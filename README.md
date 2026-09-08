@@ -154,6 +154,7 @@
 * [Apiary](https://apiary.io/) – Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 * [wrapAPI, Build an API on top of any website](https://wrapapi.com).
 * [import.io, turn web pages into Data](https://www.import.io/).
+* [GcrawlAI, turn any website into LLM-ready data](https://github.com/GramosoftAI/GcrawlAI) – Open source distributed crawler and scraper API with Markdown output, stealth browsing and screenshots.
 * [RAML, RESTful API Modeling Language](http://raml.org).
 * [Runscope](https://www.runscope.com/) – Automated API Monitoring & Testing.
 * [swagger.io](http://swagger.io).
