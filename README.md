@@ -70,6 +70,7 @@
 * [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices).
 * [Node Security Project](https://nodesecurity.io/).
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
+* [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Format
 
