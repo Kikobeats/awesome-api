@@ -130,6 +130,7 @@
 
 ### Free
 
+* [Cortex](https://github.com/cortex-docs/cortex) - Generates interactive API documentation and typed SDKs from OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC.
 * [docbox](https://github.com/tmcw/docbox).
 * [slate](https://github.com/tripit/slate).
 * [whiteboard](https://github.com/mpociot/whiteboard).
