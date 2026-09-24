@@ -118,6 +118,7 @@
 * [FakeQL](https://fakeql.com/) – Mainly focused on GraphQL, but can mock RESTful APIs, as well.
 * [PIPL API](https://pipl.ir) – Free and public API that generates random and fake people's data in JSON
 * [API Mocha](https://apimocha.com) - Free online service providing fake REST API endpoints, create customizable responses and download rules as a Postman collection.
+* [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) - Open-source, self-hosted REST API (plus CLI and SDKs) for checksum-valid financial and identity test data (IBAN MOD-97, Luhn cards, TCKN, ISIN), plus real registered BIC/SWIFT codes — every value passes real validation, not just format-plausible.
 ### Response
 
 * [httpstat.us](https://httpstat.us) – A super simple service for generating different HTTP codes.
