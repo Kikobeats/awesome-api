@@ -95,6 +95,7 @@
 
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
+* [API.market](https://api.market) – API marketplace for discovering and using APIs, with API-specific subscriptions and a hosted MCP gateway for agent access.
 
 ## Testing
 
