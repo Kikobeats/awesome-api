@@ -132,7 +132,7 @@
 
 * [docbox](https://github.com/tmcw/docbox).
 * [slate](https://github.com/tripit/slate).
-* [sourcey](https://sourcey.com).
+* [sourcey](https://sourcey.com/oss).
 * [whiteboard](https://github.com/mpociot/whiteboard).
 
 ### Services
