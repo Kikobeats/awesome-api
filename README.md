@@ -155,6 +155,7 @@
 * [wrapAPI, Build an API on top of any website](https://wrapapi.com).
 * [import.io, turn web pages into Data](https://www.import.io/).
 * [RAML, RESTful API Modeling Language](http://raml.org).
+* [NutriGraphAPI](https://nutrigraphapi.com/docs) – Nutritional and food composition API providing automated ingredient breakdown and analysis.
 * [Runscope](https://www.runscope.com/) – Automated API Monitoring & Testing.
 * [swagger.io](http://swagger.io).
 
