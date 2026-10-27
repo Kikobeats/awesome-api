@@ -107,6 +107,7 @@
 * [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
 * [resty](https://github.com/micha/resty) – Little command line REST client that you can use in pipelines (bash or zsh).
 * [TestMace](https://testmace.com) – A modern powerful crossplatform tool for working with API and creating automated API tests.
+* [Rentgen](https://github.com/Rentgen-io/Rentgen) – Local-first API testing tool that automatically generates and executes negative, boundary, authentication, and HTTP behavior tests from a working cURL request. Includes security checks and performance insights, with desktop and CLI support.
 
 ### Mocking
 
