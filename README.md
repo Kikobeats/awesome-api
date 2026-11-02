@@ -156,6 +156,7 @@
 * [import.io, turn web pages into Data](https://www.import.io/).
 * [RAML, RESTful API Modeling Language](http://raml.org).
 * [Runscope](https://www.runscope.com/) – Automated API Monitoring & Testing.
+* [Breaklytix](https://breaklytix.site/) - API change monitoring and alerts.
 * [swagger.io](http://swagger.io).
 
 ## Libraries
