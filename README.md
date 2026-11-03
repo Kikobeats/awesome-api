@@ -94,6 +94,7 @@
 ### Directory
 
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
+* [FreeAPI](https://findfreeapi.com) – Curated directory of 1,000+ free public APIs with live in-browser testing sandboxes and edge CORS gateway.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
 ## Testing
