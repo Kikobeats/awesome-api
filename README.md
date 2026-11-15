@@ -96,6 +96,8 @@
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
+* [No Stairs Please MCP](https://nostairsplease.com/mcp) - Live-music venue directory and remote MCP server across all 50 US states, DC, and British Columbia.
+
 ## Testing
 
 ### Querying
