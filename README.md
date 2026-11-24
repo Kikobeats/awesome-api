@@ -76,15 +76,13 @@
 
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
 
-## Testing
-- [Bruno](https://github.com/usebruno/bruno) - Opensource IDE for exploring and testing APIs.
-
 ### Querying
 
 * [httpie](https://github.com/jkbrzt/httpie) – Command line HTTP client, far more dev-friendly than `curl`.
 * [jq](https://github.com/stedolan/jq) – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
 * [resty](https://github.com/micha/resty) – Little command line REST client that you can use in pipelines (bash or zsh).
+* [Bruno](https://github.com/usebruno/bruno) - Opensource IDE for exploring and testing APIs.
 
 ### Mocking
 
