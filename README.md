@@ -12,10 +12,8 @@
 * [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
 * [StackOverflow best REST API Design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/).
 * [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference).
-* [API Terms Glossary](https://github.com/Mashape/apiglossary).
 * [HTTP API Design by Heroku](https://github.com/interagent/http-api-design).
 * [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com).
-* [RAPIS: A REST API Standard for the 21st century](https://github.com/lambda2/rapis).
 * [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines).
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines).
 * [Zalando RESTful API and Event Scheme Guidelines](http://zalando.github.io/restful-api-guidelines/)
@@ -27,48 +25,31 @@
 > When you are using a REST design you have to provide the HTTP status code that are the more appropriated to respond to the request.
 
 * [HTTP Status code table in RESTAPITutorial](http://www.restapitutorial.com/httpstatuscodes.html).
-* [httpstatuses.com](https://httpstatuses.com/)
 * [Status code definition in W3C](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html).
-* [HTTP Status Code Guides](https://tryhexadecimal.com/guides/http/)
 
 ### Authentication
 
-* [Auth Boss](https://github.com/teesloane/Auth-Boss) – Learn about different authentication methodologies on the web.
 * [Authentication Cheat Sheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet).
-* [The Problem With API Authentication in Express](https://stormpath.com/blog/the-problem-with-api-authentication-in-express/).
 * [Web Authentication Methods Explained](https://blog.risingstack.com/web-authentication-methods-explained/).
 
 #### JWT
 
 > JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
 
-* [10 Things You Should Know about Tokens](https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/).
-* [Cookies vs Tokens](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/).
 * [JWT Draft in IETF](https://tools.ietf.org/html/draft-ietf-oauth-json-web-token).
 * [JWT.io](http://jwt.io/).
 * [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/).
-* [Why Meteor doesn't use session cookies](http://info.meteor.com/blog/session-cookies).
 * [Guide on API authentication and authorization](https://www.moesif.com/blog/technical/restful-apis/Authorization-on-RESTful-APIs/).
-
-### Authorization
-
-#### OAuth
-
-> An open protocol to allow secure authorization in a simple and standard method from web, mobile and desktop applications
-
-* [The OAuth Bible by Mashape](https://github.com/Kong/mashape-oauth/blob/master/FLOWS.md).
 
 ## Caching
 
 * [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices/).
 * [Increasing Application Performance with HTTP Cache Headers](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers).
-* [Using Cloudflare with your API](https://support.cloudflare.com/hc/en-us/articles/200504045-Using-Cloudflare-with-your-API).
 
 ## Security
 
 * [Helmet, help secure Express/Connect apps with various HTTP headers](https://www.npmjs.com/package/helmet).
 * [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices).
-* [Node Security Project](https://nodesecurity.io/).
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
 
 ## Format
@@ -94,7 +75,6 @@
 ### Directory
 
 * [apis.io](http://apis.io) – API Search service to help discover APIs on the web.
-* [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
 ## Testing
 - [Bruno](https://github.com/usebruno/bruno) - Opensource IDE for exploring and testing APIs.
@@ -117,13 +97,9 @@
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) – Free online REST service that you can use whenever you need some fake data.
 * [json-server](https://github.com/typicode/json-server) – Get a full fake REST API with zero coding in less than 30 seconds.
 * [MockServer](https://www.mock-server.com) - Mocking, debugging proxy and chaos engineering for HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more; mock APIs, record/replay and inspect traffic, verify requests, and inject chaos. Docker, JAR, Helm.
-* [Mocky.io](http://www.mocky.io/) – Free online service to create fake HTTP responses.
-* [FakeQL](https://fakeql.com/) – Mainly focused on GraphQL, but can mock RESTful APIs, as well.
-* [PIPL API](https://pipl.ir) – Free and public API that generates random and fake people's data in JSON
-* [API Mocha](https://apimocha.com) - Free online service providing fake REST API endpoints, create customizable responses and download rules as a Postman collection.
+
 ### Response
 
-* [httpstat.us](https://httpstat.us) – A super simple service for generating different HTTP codes.
 * [httpbin](https://httpbin.org) – httpbin(1): HTTP Request & Response Service.
 * [badssl](https://badssl.com) – Testing clients against bad SSL configs.
 
@@ -133,10 +109,7 @@
 
 ### Free
 
-* [docbox](https://github.com/tmcw/docbox).
-* [slate](https://github.com/tripit/slate).
 * [sourcey](https://sourcey.com/docs).
-* [whiteboard](https://github.com/mpociot/whiteboard).
 
 ### Services
 
@@ -187,7 +160,6 @@
 ### Open Source / Self-hosted
 
 * [API Umbrella](http://apiumbrella.io/).
-* [ApiAxle](http://apiaxle.com).
 * [KrakenD](http://krakend.io).
 * [Mashape Kong](https://getkong.org/).
 * [Tyk](https://tyk.io/).
