@@ -9,16 +9,16 @@
 > REST allows us to create services and applications that can be used by any device or client who understands HTTP.
 
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) [[spanish version](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)].
-* [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
-* [StackOverflow best REST API Design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/).
-* [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference).
-* [HTTP API Design by Heroku](https://github.com/interagent/http-api-design).
-* [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com).
-* [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines).
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines).
-* [Zalando RESTful API and Event Scheme Guidelines](http://zalando.github.io/restful-api-guidelines/)
 * [gov.uk API technical and data standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards)
+* [Heroku API Reference](https://devcenter.heroku.com/articles/platform-api-reference).
 * [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
+* [HTTP API Design by Heroku](https://github.com/interagent/http-api-design).
+* [IBM Watson REST API Guidelines](https://github.com/watson-developer-cloud/api-guidelines).
+* [Ideal REST API Design](https://betimdrenica.wordpress.com/2015/03/09/ideal-rest-api-design/).
+* [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com).
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines).
+* [StackOverflow best REST API Design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/).
+* [Zalando RESTful API and Event Scheme Guidelines](http://zalando.github.io/restful-api-guidelines/)
 
 ### Status Code
 
@@ -36,10 +36,10 @@
 
 > JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
 
+* [Guide on API authentication and authorization](https://www.moesif.com/blog/technical/restful-apis/Authorization-on-RESTful-APIs/).
 * [JWT Draft in IETF](https://tools.ietf.org/html/draft-ietf-oauth-json-web-token).
 * [JWT.io](http://jwt.io/).
 * [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/).
-* [Guide on API authentication and authorization](https://www.moesif.com/blog/technical/restful-apis/Authorization-on-RESTful-APIs/).
 
 ## Caching
 
@@ -48,8 +48,8 @@
 
 ## Security
 
-* [Helmet, help secure Express/Connect apps with various HTTP headers](https://www.npmjs.com/package/helmet).
 * [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices).
+* [Helmet, help secure Express/Connect apps with various HTTP headers](https://www.npmjs.com/package/helmet).
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
 
 ## Format
@@ -78,11 +78,11 @@
 
 ### Querying
 
-* [httpie](https://github.com/jkbrzt/httpie) – Command line HTTP client, far more dev-friendly than `curl`.
-* [jq](https://github.com/stedolan/jq) – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
-* [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
-* [resty](https://github.com/micha/resty) – Little command line REST client that you can use in pipelines (bash or zsh).
 * [Bruno](https://github.com/usebruno/bruno) - Opensource IDE for exploring and testing APIs.
+* [httpie](https://github.com/jkbrzt/httpie) – Command line HTTP client, far more dev-friendly than `curl`.
+* [Insomina](https://insomnia.rest/) – A Fancy HTTP REST Client.
+* [jq](https://github.com/stedolan/jq) – Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* [resty](https://github.com/micha/resty) – Little command line REST client that you can use in pipelines (bash or zsh).
 
 ### Mocking
 
@@ -94,8 +94,8 @@
 
 ### Response
 
-* [httpbin](https://httpbin.org) – httpbin(1): HTTP Request & Response Service.
 * [badssl](https://badssl.com) – Testing clients against bad SSL configs.
+* [httpbin](https://httpbin.org) – httpbin(1): HTTP Request & Response Service.
 
 ## Documentation
 
@@ -107,16 +107,16 @@
 
 ### Services
 
+* [GitBook](https://www.gitbook.com/).
 * [RapidAPI](https://docs.rapidapi.com/docs).
 * [Readme.io](https://readme.io/).
-* [GitBook](https://www.gitbook.com/).
 
 ## Logging
 
-* [PM2 by keymetrics](https://pm2.keymetrics.io).
-* [morgan for expressjs](https://github.com/expressjs/morgan).
-* [Moesif API Analytics](https://www.moesif.com/features/api-logs). Log and Understand API Traffic.
 * [Apitally](https://apitally.io) - Simple, privacy-focused API monitoring, analytics, and request logging.
+* [Moesif API Analytics](https://www.moesif.com/features/api-logs). Log and Understand API Traffic.
+* [morgan for expressjs](https://github.com/expressjs/morgan).
+* [PM2 by keymetrics](https://pm2.keymetrics.io).
 
 ## Modeling and SaaS
 
@@ -124,11 +124,11 @@
 
 * [Alteranatives to API Plug](https://www.producthunt.com/alternatives/api-plug) – 9 alternative and related products to api plug.
 * [Apiary](https://apiary.io/) – Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
-* [wrapAPI, Build an API on top of any website](https://wrapapi.com).
 * [import.io, turn web pages into Data](https://www.import.io/).
 * [RAML, RESTful API Modeling Language](http://raml.org).
 * [Runscope](https://www.runscope.com/) – Automated API Monitoring & Testing.
 * [swagger.io](http://swagger.io).
+* [wrapAPI, Build an API on top of any website](https://wrapapi.com).
 
 ## Libraries
 
@@ -142,10 +142,10 @@
 
 > Designed specifically for building RESTful API's Quickly.
 
-* [Loopback](http://loopback.io).
-* [Sails.js](http://sailsjs.org).
 * [FastAPI](https://github.com/tiangolo/fastapi).
+* [Loopback](http://loopback.io).
 * [rest-hapi](https://resthapi.com).
+* [Sails.js](http://sailsjs.org).
 
 ## Gateways
 
