@@ -97,6 +97,7 @@
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory).
 
 ## Testing
+- [Bruno](https://github.com/usebruno/bruno) - Opensource IDE for exploring and testing APIs.
 
 ### Querying
 
