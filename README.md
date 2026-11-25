@@ -70,6 +70,7 @@
 ### Curated list
 
 * [Awesome APIs Directory](https://github.com/Abhishaker17/Awesome-APIs) – A public list of APIs from round the web.
+* [Free LLM API Hub](https://github.com/pacocartones/free-llm-api-hub) – A verified list of free-tier LLM APIs from 60+ providers, with a no-auth JSON API.
 * [public apis](https://github.com/toddmotto/public-apis) – A collective list of public JSON APIs for use in web development.
 
 ### Directory
