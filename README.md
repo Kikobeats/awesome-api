@@ -51,6 +51,7 @@
 * [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices).
 * [Helmet, help secure Express/Connect apps with various HTTP headers](https://www.npmjs.com/package/helmet).
 * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/).
+* [SpecDiff](https://github.com/Gong-shijie/specdiff) - Client-side OpenAPI 2.0/3.0/3.1 breaking-change diff, OWASP API Top 10 security auditor, and SARIF 2.1.0 CLI/GitHub Action.
 
 ## Format
 
